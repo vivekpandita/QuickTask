@@ -1,16 +1,8 @@
-# quick_task
+#QuickTask
+This application has been developed as part of assignment for Subject "Cross Platform Application Developement" for M. Tech Software Engineering, BITS WILP.
+Screenshot of application for Reference:
+![image](https://github.com/user-attachments/assets/f4624c04-678e-4fc2-9c41-40fdcc9b18d5)
 
-A new Flutter project.
+![image](https://github.com/user-attachments/assets/0a6718b2-d141-4433-95cf-1724e44e513d)
+![image](https://github.com/user-attachments/assets/da419289-27d1-4d1e-89b5-be7f218f0f15)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
