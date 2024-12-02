@@ -7,11 +7,8 @@ import 'package:parse_server_sdk_flutter/parse_server_sdk_flutter.dart';
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
 
-    // 'nqyXTC9a00xbWulze3aGLMkQHVfCOtjHkW6voOss',
-    // 'https://parseapi.back4app.com',
-    // clientKey: 'nuKN9gmD8AR5FogyA72vRmwL1XZZDSWstFFPznSu',
-    // autoSendSessionId: true,
   // Initialize Back4App
+  // Credientials for my Quick Task App on Back4App
   const appId = 'nqyXTC9a00xbWulze3aGLMkQHVfCOtjHkW6voOss';
   const clientKey = 'nuKN9gmD8AR5FogyA72vRmwL1XZZDSWstFFPznSu';
   const serverUrl = 'https://parseapi.back4app.com';
