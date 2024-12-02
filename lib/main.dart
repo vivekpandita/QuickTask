@@ -1,6 +1,3 @@
-// QuickTask: Flutter Task Management App with Back4App Integration
-
-// Import Required Packages
 import 'package:flutter/material.dart';
 import 'package:parse_server_sdk_flutter/parse_server_sdk_flutter.dart';
 
